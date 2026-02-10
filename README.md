@@ -13,7 +13,7 @@ This program teaches both — responsibly.
     Designed as an apprenticeship-style program, not a sprint.
     Identity systems take time to understand because mistakes are irreversible.
 
-Systems Engineering & Identity Responsibility (SEIR-I) is a two-year applied program focused on how identity, access, and trust are designed and operated in modern cloud environments. While many programs treat identity as a configuration detail, this program treats identity as a primary system of responsibility. Students learn how access is granted, extended, audited, and recovered across cloud platforms.
+Systems Engineering & Identity Responsibility (SEIR-I) is a 18 month applied program focused on how identity, access, and trust are designed and operated in modern cloud environments. While many programs treat identity as a configuration detail, this program treats identity as a primary system of responsibility. Students learn how access is granted, extended, audited, and recovered across cloud platforms.
 
 This program uses Google Cloud Platform (GCP) as the primary infrastructure environment, with Microsoft Entra ID (Azure Active Directory) as the identity authority. Students learn how identity is extended from Microsoft into GCP using federation, SSO, and modern authentication protocols. The emphasis is not on setup alone, but on understanding failure modes, blast radius, and recovery.
 
